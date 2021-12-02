@@ -23,9 +23,11 @@ public class calculadora {
 			break;
 		case 3:
 			System.out.println("La división es "+(num1/num2));
+// Ya lo había creado así que relleno con esto para que haya cambio
 			break;
 		case 4:
 			System.out.println("La multiplicación es "+(num1*num2));
+// Ya lo había creado así que relleno con esto para que haya cambio
 			break;
 		}
 		sc.close();
